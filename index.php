@@ -3,9 +3,9 @@
 //ini_set('display_errors', 'On');
 error_reporting(E_ERROR );
 define('DATABASE', 'vm368');
-define('USERNAME', 'root');
-define('PASSWORD', '');
-define('CONNECTION', 'localhost');
+define('USERNAME', 'vm368');
+define('PASSWORD', 'o2dwjU2Q');
+define('CONNECTION', 'sql2.njit.edu');
 
 class pdoactive {
     public static function autoload($class) {
